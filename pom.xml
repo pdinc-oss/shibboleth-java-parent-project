@@ -62,7 +62,7 @@
         <rhino.engine.version>1.0.0</rhino.engine.version> <!-- Test only dependency -->
         <slf4j.groupId>org.slf4j</slf4j.groupId>
         <slf4j.version>2.0.3</slf4j.version>
-        <logback.version>1.4.4</logback.version>
+        <logback.version>1.4.5</logback.version>
         <spring.groupId>org.springframework</spring.groupId>
         <spring.version>5.3.24</spring.version>
         <spring-webflow.groupId>org.springframework.webflow</spring-webflow.groupId>
