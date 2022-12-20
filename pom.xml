@@ -68,7 +68,7 @@
         <spring-webflow.groupId>org.springframework.webflow</spring-webflow.groupId>
         <spring-webflow.version>2.5.1.RELEASE</spring-webflow.version>
         <velocity.version>2.3</velocity.version>
-        <xmlsec.version>2.3.0</xmlsec.version>
+        <xmlsec.version>2.3.2</xmlsec.version>
         <xmlunit.version>2.9.0</xmlunit.version>
 
         <maven-dist-enforcer.version>3.1.1</maven-dist-enforcer.version>
