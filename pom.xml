@@ -73,7 +73,7 @@
         <xmlunit.version>2.9.0</xmlunit.version>
 
         <maven-dist-enforcer.version>3.1.1</maven-dist-enforcer.version>
-        <maven-dist-enforcer-data.version>1.0.12-SNAPSHOT</maven-dist-enforcer-data.version>
+        <maven-dist-enforcer-data.version>1.0.12</maven-dist-enforcer-data.version>
 
         <checkstyle.version>8.45.1</checkstyle.version>
         <checkstyle-plugin.version>3.1.2</checkstyle-plugin.version>
